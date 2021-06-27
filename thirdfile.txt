@@ -2,5 +2,5 @@ This is first test.
 My second change.
 feature1 change
 develop change.
-feature1 change1
+feature1 change1.
 
