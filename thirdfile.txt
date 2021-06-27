@@ -5,5 +5,5 @@ develop change.
 feature1 change1.
 develop 1
 gitrepochange1
-local change 1
+local change 1.
 
