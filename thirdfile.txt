@@ -1,9 +1,2 @@
-This is first test.
-My second change.
-feature1 change
-develop change.
-feature1 change1.
-develop 1
-third1
-local change 1.
+first1
 
